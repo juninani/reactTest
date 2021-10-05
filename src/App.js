@@ -1,9 +1,9 @@
-import Say from "./Say";
+import EventPracticeClass from "./EventPracticeClass";
 
 
 const App = () => {
   
-  return <Say/>;
+  return <EventPracticeClass/>;
 };
 
 export default App;
